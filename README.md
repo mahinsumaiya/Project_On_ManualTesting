@@ -55,19 +55,17 @@ General activities you can perform:
 ## Reports:
 ### Question 1 & 4 Answer:
 
-[Question 1 & 4.docx](https://github.com/user-attachments/files/17795559/Question.1.4.docx)
-
 [Answer of Question 1& 4](https://docs.google.com/document/d/1GuweqYTAYDV5XNDurkW0Pdl-AjdTmWX0/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true)
 
 ### Test cases of Feature 1 & 2
 [Test cases of 2 features](https://docs.google.com/spreadsheets/d/17bb2M4mMcaqbXDF_yb_1SPu4z_QHoNWD/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true)
 
-[Test_Cases.xlsx](https://github.com/user-attachments/files/17795561/Test_Cases.xlsx)
+
 
 ### Bug Report of Dmoney Website
 [Bug Report of the Website](https://docs.google.com/spreadsheets/d/139-Cz-OJz3DoRU3JhnpON0yy9ClnVK5w/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true)
 
-[Bug Report_Final.xlsx](https://github.com/user-attachments/files/17795557/Bug.Report_Final.xlsx)
+
 
 
 
