@@ -50,3 +50,20 @@ General activities you can perform:
   
 6.	Merchant can only see transaction history of received payment.
 
+# Reports:
+### Question 1 & 4 Answer:
+
+[Question 1 & 4.docx](https://github.com/user-attachments/files/17795559/Question.1.4.docx)
+
+### Test cases of Feature 1 & 2
+
+[Test_Cases.xlsx](https://github.com/user-attachments/files/17795561/Test_Cases.xlsx)
+
+### Bug Report of Dmoney Website
+
+[Bug Report_Final.xlsx](https://github.com/user-attachments/files/17795557/Bug.Report_Final.xlsx)
+
+
+
+
+
