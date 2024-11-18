@@ -50,7 +50,9 @@ General activities you can perform:
   
 6.	Merchant can only see transaction history of received payment.
 
-# Reports:
+# Answer:
+
+## Reports:
 ### Question 1 & 4 Answer:
 
 [Question 1 & 4.docx](https://github.com/user-attachments/files/17795559/Question.1.4.docx)
