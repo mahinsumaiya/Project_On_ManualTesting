@@ -20,11 +20,11 @@ Feature 2:
 
 If a customer has a balance of less than 100 tk, s/he can apply for a loan of up to 20000 tk. If the customer repays the loan within 30 days from the loan initiation day, no interest will be charged. However, if the customer fails to repay within this period, a daily interest of 1.8% will be applied in a compound interest manner on the remaining amount. Additionally, if a customer has already paid 50% of the remaining payment, they are eligible to apply for another loan.
 
-1.	Write the acceptance criteria for both features on rule based standard.
+##### 1. Write the acceptance criteria for both features on rule based standard.
 
-2.	Write test cases (Positive & Negative) for Feature 1 and Feature 2 in a standard test case format.
+##### 2. Write test cases (Positive & Negative) for Feature 1 and Feature 2 in a standard test case format.
 
-3.	Visit this site and write minimum 10 bug/improvement with appropriate priority and severity.
+##### 3. Visit this site and write minimum 10 bug/improvement with appropriate priority and severity.
 
 URL: https://master.d1zgfbpp372908.amplifyapp.com/login
 
@@ -49,6 +49,8 @@ General activities you can perform:
 5.	Customer can withdraw and payment;
   
 6.	Merchant can only see transaction history of received payment.
+
+##### 4. Write the feature Id serially by its priority level and explain how have you prioritized the features in a google doc. 	
 
 # Answer:
 
